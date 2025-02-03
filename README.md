@@ -9,6 +9,7 @@ This project implements a web application with JWT-based authentication, token e
 ---
 
 
+
 ## 02. Notesty
 
 A feature-rich, responsive Notes Management application built with React and integrated with a custom WordPress REST API. The app allows users to manage their notes efficiently with features like authentication, registration, CRUD operations, pagination, search, theme switching, a rich text editor, and user profile management.
@@ -18,6 +19,7 @@ A feature-rich, responsive Notes Management application built with React and int
 ![Preview](https://github.com/DimaWide/02-pet-notify-app-react-wp/blob/main/src/img/main.png)
 
 ---
+
 
 
 ## 03. Blog WP - React
@@ -31,6 +33,7 @@ A modern, responsive blog website built with React. It features user authenticat
 ---
 
 
+
 ## 04. App with Customizable Color Theme
 
 A app with the ability to customize the color theme.  
@@ -40,6 +43,7 @@ A app with the ability to customize the color theme.
 ![Preview](https://github.com/DimaWide/04-pet-randomize-styles-react/blob/main/src/assets/img/preview.png)
 
 ---
+
 
 
 ## 05. React Components for Landing Page
@@ -54,6 +58,7 @@ The project is built with **React** and deployed on **Vercel** for demonstration
 ---
 
 
+
 ## 06. WP Blog
 
  A full-fledged blogging platform with posts, categories. Ideal for publishing ideas, tutorials and news.
@@ -65,6 +70,7 @@ The project is built with **React** and deployed on **Vercel** for demonstration
 ---
 
 
+
 ## 07. Auth System Wp
 
 This plugin is a **custom authentication system for WordPress**, including user registration, login, and profile management.
@@ -74,6 +80,7 @@ This plugin is a **custom authentication system for WordPress**, including user 
 ![Preview](https://github.com/DimaWide/07-pet-auth-system-wp/blob/main/assets/img/login.png)
 
 ---
+
 
 
 ## 08. Post with AI text generation:
