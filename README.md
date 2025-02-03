@@ -28,7 +28,7 @@ A modern, responsive blog website built with React. It features user authenticat
 
 [Repository](https://github.com/DimaWide/03-pet-blog-react-headless-wp)
 
-![Preview](https://github.com/DimaWide/03-pet-blog-react-headless-wp/tree/main/src/img/main.png)
+![Preview](https://github.com/DimaWide/03-pet-blog-react-headless-wp/blob/main/src/img/main.png)
 
 ---
 
