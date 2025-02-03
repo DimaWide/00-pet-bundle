@@ -6,6 +6,7 @@ This project implements a web application with JWT-based authentication, token e
 
 ![Preview](https://github.com/DimaWide/01-pet-todo-auth-jwt-php-react/blob/main/public/img/jwt.png)
 
+---
 
 ## 02. Notesty
 
@@ -15,6 +16,7 @@ A feature-rich, responsive Notes Management application built with React and int
 
 ![Preview](https://github.com/DimaWide/02-pet-notify-app-react-wp/blob/main/src/img/main.png)
 
+---
 
 ## 03. Blog WP - React
 
@@ -24,6 +26,7 @@ A modern, responsive blog website built with React. It features user authenticat
 
 ![Preview](https://github.com/DimaWide/03-pet-blog-react-headless-wp/tree/main/src/img/main.png)
 
+---
 
 ## 04. App with Customizable Color Theme
 
@@ -33,6 +36,7 @@ A app with the ability to customize the color theme.
 
 ![Preview](https://github.com/DimaWide/04-pet-randomize-styles-react/blob/main/src/assets/img/preview.png)
 
+---
 
 ## 05. React Components for Landing Page
 
@@ -43,6 +47,7 @@ The project is built with **React** and deployed on **Vercel** for demonstration
 
 ![Preview](https://github.com/DimaWide/05-react-components-landing/blob/main/src/assets/preview.png)
 
+---
 
 ## 06. WP Blog
 
@@ -52,6 +57,7 @@ The project is built with **React** and deployed on **Vercel** for demonstration
 
 ![Preview](https://github.com/DimaWide/06-pet-wp-blog-theme/blob/main/img/screencapture-dw-web-dev-online-1.jpg)
 
+---
 
 ## 07. Auth System Wp
 
@@ -61,6 +67,7 @@ This plugin is a **custom authentication system for WordPress**, including user 
 
 ![Preview](https://github.com/DimaWide/07-pet-auth-system-wp/blob/main/assets/img/login.png)
 
+---
 
 ## 08. Post with AI text generation:
 
