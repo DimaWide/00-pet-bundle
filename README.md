@@ -1,6 +1,6 @@
 
 ## React Components for Landing Page
-### Landing Page
+
 This repository contains reusable React components for a Landing Page.  
 The project is built with **React** and deployed on **Vercel** for demonstration purposes.
 
